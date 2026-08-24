@@ -96,9 +96,9 @@ python agent/evaluate_evidence_recall.py \
 
 ## Data
 
-[Med-Evidence-2.6k](https://huggingface.co/datasets/danieez/Med-Evidence-2.6k) contains 2,660 LLM-assisted reference-evidence annotations. Each annotation links diagnostic evidence to the source case and categorizes its role as inclusion, exclusion, or differentiation.
+[Med-Evidence-2.6k](https://huggingface.co/datasets/danieez/Med-Evidence-2.6k) contains 2,660 LLM-assisted reference-evidence annotations. Each annotation links diagnostic evidence to the source case and categorizes its role as inclusion, exclusion, or differentiation. A subset of the annotations was qualitatively reviewed by physicians for clinical plausibility and evidence relevance.
 
-The source cases come from:
+The source cases come from (these cases are also used in experiments):
 
 - [DiagnosisArena](https://huggingface.co/datasets/SII-SPIRAL-MED/DiagnosisArena)
 - [MedXpertQA](https://huggingface.co/datasets/TsinghuaC3I/MedXpertQA)
