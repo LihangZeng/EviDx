@@ -108,7 +108,7 @@ The StatPearls and textbook retrieval corpora come from [MedRAG](https://hugging
 
 ## License
 
-The source code and documentation are released under the [Apache License 2.0](LICENSE). This license does not cover third-party datasets, corpora, or model weights.
+The source code and documentation are released under the [Apache License 2.0](LICENSE).
 
 ## Disclaimer
 
