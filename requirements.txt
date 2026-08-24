@@ -1,0 +1,8 @@
+numpy
+openai
+pandas
+python-dotenv
+qdrant-client
+rank-bm25
+requests
+tqdm
