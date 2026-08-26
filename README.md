@@ -2,7 +2,7 @@
 
 **Evidence-Aware Active Diagnosis with Scaffolded LLM Agents**
 
-[Paper] | [Med-Evidence-2.6k](https://huggingface.co/datasets/danieez/Med-Evidence-2.6k) | [Apache-2.0](LICENSE)
+[Paper](https://arxiv.org/pdf/2608.24570) | [Med-Evidence-2.6k](https://huggingface.co/datasets/danieez/Med-Evidence-2.6k) | [Apache-2.0](LICENSE)
 
 EviDx is a research framework for active clinical diagnosis with LLM agents. It turns static clinical cases into interactive patient-specific environments, lets agents acquire patient and external evidence through tools, and regulates diagnostic termination using uncertainty and evidence coverage. The paper was accepted to *Findings of EMNLP 2026*.
 
