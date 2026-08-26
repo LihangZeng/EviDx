@@ -54,7 +54,7 @@ Configure `.env` with:
 - a Qdrant instance;
 - an optional directory of [MedRAG](https://huggingface.co/MedRAG) textbook JSONL files for BM25 retrieval.
 
-See [.env.example](.env.example) for all variables. The StatPearls and textbook corpora are available from [MedRAG](https://huggingface.co/MedRAG); model weights are not included.
+The StatPearls and textbook corpora are available from [MedRAG](https://huggingface.co/MedRAG).
 
 ## Usage
 
